@@ -1,0 +1,25 @@
+body {
+    background-color: #606c38;
+    color: #F5F5F5;
+    font-family: "Google Sans Code", monospace;
+    font-size: 15px;
+    font-weight: 200;
+    font-optical-sizing: auto;
+    padding: 20px; 
+}
+
+h4 {
+    text-align: left;
+}
+
+hr {
+    background-color: #F5F5F5;
+}
+
+#output {
+    text-align: left;
+}
+
+#input {
+    text-align: left;
+}
